@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+.idea
+*.iml
+node_modules
+bundle.js
+bundle.js.map
+
+git
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+node_modules/
+build/
+coverage/
+.nyc_output/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
