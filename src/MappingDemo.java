@@ -1,5 +1,4 @@
 import com.squareup.okhttp.*;
-import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
 import java.io.IOException;
